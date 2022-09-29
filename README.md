@@ -2,6 +2,8 @@ Jeffrey's User Page
 
 My favorite programming language is Python
 
+[jeffreyl02.github.io/CSE110-LAB1/](jeffreyl02.github.io/CSE110-LAB1/)
+
 # I AM JEFFREY LIU
 
 **I AM JEFFREY LIU BUT IN BOLD**
